@@ -1,0 +1,14 @@
+{
+  "name": "angle",
+  "repo": "pgherveou/angle",
+  "description": "calculate angle between two coordinates",
+  "version": "0.0.1",
+  "keywords": ["coordinates", "angle"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
